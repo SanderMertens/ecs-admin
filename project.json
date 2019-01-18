@@ -1,0 +1,13 @@
+{
+    "id": "ecs_admin",
+    "type": "application",
+    "value": {
+        "author": "Sander Mertens",
+        "description": "Example that demonstrates using the reflecs admin",
+        "use": [
+            "reflecs",
+            "reflecs.systems.admin",
+            "reflecs.systems.civetweb"
+        ]
+    }
+}
